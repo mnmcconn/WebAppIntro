@@ -1,0 +1,2 @@
+C:\Users\Mitchel\source\repos\VuejsApp1\VuejsApp1\obj\Debug\VuejsApp1.njsproj.CoreCompileInputs.cache
+C:\Users\Mitchel\source\repos\VuejsApp1\VuejsApp1\bin\Microsoft.NodejsTools.WebRole.dll
